@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dcc2ec2b-d3e2-4ad4-83f2-297d3350d45c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java/Baekjoon/Baek11718.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Baekjoon/Baek11718.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Baek10988.executor": "Run",
+    "Application.Baek1157.executor": "Run",
+    "Application.Baek2444.executor": "Run",
     "Application.Baek2557.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -73,6 +75,7 @@
       <updated>1711431775445</updated>
       <workItem from="1711431776720" duration="131000" />
       <workItem from="1711431926919" duration="5367000" />
+      <workItem from="1711610981805" duration="2802000" />
     </task>
     <servers />
   </component>

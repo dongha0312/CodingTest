@@ -2,6 +2,17 @@ package Java.Baekjoon;
 
 import java.util.Scanner;
 
+/*크로아티아 알파벳	변경
+č	c=
+ć	c-
+dž	dz=
+đ	d-
+lj	lj
+nj	nj
+š	s=
+ž	z=*/
+
+
 public class Baek2941 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

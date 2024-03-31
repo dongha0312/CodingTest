@@ -22,6 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
@@ -41,6 +44,7 @@
     "Application.Baek1157.executor": "Run",
     "Application.Baek1316.executor": "Run",
     "Application.Baek2444.executor": "Run",
+    "Application.Baek25206.executor": "Run",
     "Application.Baek2557.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -55,6 +59,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -78,7 +83,9 @@
       <workItem from="1711431926919" duration="5367000" />
       <workItem from="1711610981805" duration="3420000" />
       <workItem from="1711636465004" duration="5516000" />
-      <workItem from="1711801930084" duration="3528000" />
+      <workItem from="1711801930084" duration="3586000" />
+      <workItem from="1711806781159" duration="147000" />
+      <workItem from="1711806933284" duration="283000" />
     </task>
     <servers />
   </component>

@@ -40,14 +40,17 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Baek10798.executor&quot;: &quot;Run&quot;,
     &quot;Application.Baek10988.executor&quot;: &quot;Run&quot;,
     &quot;Application.Baek1157.executor&quot;: &quot;Run&quot;,
     &quot;Application.Baek1316.executor&quot;: &quot;Run&quot;,
     &quot;Application.Baek2444.executor&quot;: &quot;Run&quot;,
     &quot;Application.Baek25206.executor&quot;: &quot;Run&quot;,
     &quot;Application.Baek2557.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baek2563.executor&quot;: &quot;Run&quot;,
     &quot;Application.Baek2566.executor&quot;: &quot;Run&quot;,
     &quot;Application.Baek2738.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Baek2745.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -94,7 +97,9 @@
       <workItem from="1712032411646" duration="935000" />
       <workItem from="1712062367262" duration="609000" />
       <workItem from="1712195953131" duration="5000" />
-      <workItem from="1712212548323" duration="887000" />
+      <workItem from="1712212548323" duration="2234000" />
+      <workItem from="1712305279952" duration="2780000" />
+      <workItem from="1712308614526" duration="1231000" />
     </task>
     <servers />
   </component>

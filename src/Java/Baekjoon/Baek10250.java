@@ -14,7 +14,7 @@ public class Baek10250 {
             int N = sc.nextInt();
 
             if (){
-                
+
             }
         }
 

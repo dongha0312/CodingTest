@@ -7,6 +7,7 @@
     <list default="true" id="dcc2ec2b-d3e2-4ad4-83f2-297d3350d45c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Java/Baekjoon/Baek10250.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Baekjoon/Baek10250.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/Baekjoon/Baek1676.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +42,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Baek10250.executor": "Run",
     "Application.Baek10798.executor": "Run",
     "Application.Baek10988.executor": "Run",
     "Application.Baek1157.executor": "Run",
+    "Application.Baek11943.executor": "Run",
     "Application.Baek1316.executor": "Run",
+    "Application.Baek1598.executor": "Run",
+    "Application.Baek20492.executor": "Run",
     "Application.Baek2292.executor": "Run",
     "Application.Baek2444.executor": "Run",
     "Application.Baek2475.executor": "Run",
@@ -56,7 +61,10 @@
     "Application.Baek2738.executor": "Run",
     "Application.Baek2741.executor": "Run",
     "Application.Baek2745.executor": "Run",
+    "Application.Baek2845.executor": "Run",
     "Application.Baek2920.executor": "Run",
+    "Application.Baek5532.executor": "Run",
+    "Application.Baek5575.executor": "Run",
     "Application.Baek8958.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -113,6 +121,7 @@
       <workItem from="1712565244203" duration="1387000" />
       <workItem from="1712617077318" duration="7237000" />
       <workItem from="1712639691409" duration="6572000" />
+      <workItem from="1712996192113" duration="9851000" />
     </task>
     <servers />
   </component>

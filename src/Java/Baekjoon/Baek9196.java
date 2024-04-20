@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Baek9196 {
     static int inH, inW, outH, outW;
     static void solve(){
-        if(inW == 0 && inH == 0)return;
+        if(inW ==0 && inH == 0);
         int inDiagnal = inH*inH + inW*inW;
 
         outH = outW = 200;
@@ -30,10 +30,12 @@ public class Baek9196 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        for(int i = 0; i < 10; i++){
+
+        while(true){
             inH = sc.nextInt();
             inW = sc.nextInt();
             solve();
         }
     }
+
 }

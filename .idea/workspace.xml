@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dcc2ec2b-d3e2-4ad4-83f2-297d3350d45c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java/Baekjoon/Baek1978.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java/Baekjoon/Baek1978.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     "Application.Baek1476.executor": "Run",
     "Application.Baek1598.executor": "Run",
     "Application.Baek1676.executor": "Run",
+    "Application.Baek1978.executor": "Run",
     "Application.Baek20492.executor": "Run",
     "Application.Baek2161.executor": "Run",
     "Application.Baek2292.executor": "Run",
@@ -142,7 +144,7 @@
       <workItem from="1713711497942" duration="97000" />
       <workItem from="1714015383561" duration="25000" />
       <workItem from="1714138653410" duration="2214000" />
-      <workItem from="1714281054013" duration="5608000" />
+      <workItem from="1714281054013" duration="10383000" />
     </task>
     <servers />
   </component>
